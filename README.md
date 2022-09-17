@@ -15,6 +15,6 @@
 
 # Contato
 
-alice.angala.c.o@gmail.com
+alice.angela.c.o@gmail.com
 
 
